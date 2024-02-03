@@ -1,6 +1,6 @@
 # Introduction
 
-Blockchain & web3 are offering decentralized and secure solutions for transactions. However, understanding how cryptocurrencies work can be challenging for newcomers. This is where TrotelCoin comes in. TrotelCoin aims to provide an interactive and educational platform that simplifies the complexities of blockchain and cryptocurrencies and accelerate their adoption.
+Blockchain & Web3 are offering decentralized and secure solutions for transactions. However, understanding how cryptocurrencies work can be challenging for newcomers. This is where TrotelCoin comes in. TrotelCoin aims to provide an interactive and educational platform that simplifies the complexities of blockchain and cryptocurrencies and accelerate their adoption.
 
 ## An immersive learning experience
 
